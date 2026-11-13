@@ -16,7 +16,7 @@ Transformar dados transacionais brutos de um e-commerce brasileiro em um modelo 
 ## 🗂️ Modelagem Dimensional (Star Schema)
 Os dados originais foram tratados na camada de staging e estruturados em um esquema estrela otimizado para consultas analíticas:
 
-![Modelagem Star Schema](03_star_schema.png)
+![Modelagem Star Schema](https://githubusercontent.com)
 
 ## 📈 Dashboards e Principais Insights
 - *Faturamento Total:* R$ 13,22 Milhões (considerando pedidos entregues)
@@ -25,7 +25,7 @@ Os dados originais foram tratados na camada de staging e estruturados em um esqu
 - *Performance Logística:* Média de *12,0 dias* para entrega, com taxa global de atraso de *8,11%*.
 
 ### Visão Geral de Vendas
-![Visão Geral](01_visao_geral.png)
+![Visão Geral](https://githubusercontent.com)
 
 ### Performance Logística
-![Logística](02_logistica.png)
+![Logística](https://githubusercontent.com)
